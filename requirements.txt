@@ -1,0 +1,10 @@
+# Network Security Lab - Dependencies
+#
+# Core functionality uses only the Python standard library
+# (socket, struct, ipaddress, concurrent.futures).
+#
+# Optional dependencies for enhanced output:
+rich>=13.0.0
+
+# Testing
+pytest>=7.0.0
