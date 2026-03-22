@@ -1,3 +1,5 @@
+![CI](https://github.com/kadirou12333/network-security-lab/actions/workflows/ci.yml/badge.svg)
+
 # Network Security Lab
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
